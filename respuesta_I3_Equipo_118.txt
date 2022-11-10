@@ -21,4 +21,9 @@ F) git clone "repositorio local.git"
 
 Alpha!
 
-
+G) git clone "repositorio local.git"
+   git checkout MatiasCorta
+   ipconfig >> Beta.txt
+   git add .
+   git commit -m "alpha "
+   git push
