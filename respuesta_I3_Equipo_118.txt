@@ -9,7 +9,14 @@ C) Para hacer el merge usamos la interfaz de gitHub. Pero lo que hicimso fue act
 
 
 Gamma!
-
+D) A la rama "MatiasCorta" le falta respuestaI3.txt y a la de GAMMA le falta lo mismo y "Beta.txt"
+E) No tuvimos problemas. 
+F) git clone "repositorio local.git"
+   git checkout MatiasCorta
+   ipconfig >> Beta.txt
+   git add .
+   git commit -m " "
+   git push
 
 
 Alpha!
