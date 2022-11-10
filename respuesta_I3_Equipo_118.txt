@@ -1,0 +1,17 @@
+Matias Corta
+Mateo Elisaleco
+Cristian Cabanillas
+
+BETA!
+A) La master queda unificada con todos los cambios de las demas branch
+B) Accediendo a las diferentes ramas puedo ver todos los cambios.
+C) Para hacer el merge usamos la interfaz de gitHub.
+
+
+Gamma!
+
+
+
+Alpha!
+
+
